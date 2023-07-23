@@ -5,5 +5,4 @@
   
   Norbert Wiener, "The Human use of Human Beings", p.21
 </pre>
-<br>
-The Curse of Machine Learning.
+That is "The Curse of Machine Learning".
